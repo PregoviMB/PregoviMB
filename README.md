@@ -27,7 +27,7 @@ En tant que développeur fullstack et artiste, voici les domaines dans lesquels 
 | **Backend** | Laravel (PHP), Python (Django) |
 | **Mobile** | React Native, Ionic |
 | **Bases de Données** | MySQL |
-| **Design Graphique** | Création d'identité visuelle, Conception de logos, flyers, bannières. |
+| **Design Graphique** | Figma, Adobe Illustrator, Adobe Photoshop, Indesign, AfterEffect |
 | **Art Digital & Illustration** | Dessin traditionnel et numérique (réaliste ou illustratif), Storyboard, Peinture digitale. |
 
 ---
@@ -41,9 +41,9 @@ Vous pouvez explorer l'ensemble de mes réalisations (code, design et art) sur m
 
 ---
 
-### 🤝 Connectons-nous !
+### 🤝 Une idée de projet ? Discutons-en ensemble !
 
-Je suis toujours ouvert aux opportunités de collaboration, aux discussions sur la tech, le design, ou les projets créatifs. N'hésitez pas à me contacter !
+Je suis actuellement disponible pour des projets freelance et des collaborations. N'hésitez pas à me contacter !
 
 | Contact | Détails |
 | :--- | :--- |
