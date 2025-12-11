@@ -1,4 +1,5 @@
 # Salut 👋, Je suis Marley Pregovi MB
+![Couverture de Marley Pregovi MB](https://pregovimb.github.io/images/slide02.jpg)
 
 ### Développeur Fullstack | Graphiste | Artiste Digital 🎨
 
@@ -6,7 +7,7 @@
 
 **Bienvenue sur mon profil GitHub !**
 
-Je suis **Marley Pregovi MBOUNGOU**, Passionné par la création digitale, je conçois et développe des sites web et applications performants et adaptés aux besoins spécifiques de mes clients. Fort d'une expérience solide en développement full-stack et mobile, je mets mon expertise technique au service d'organisations diverses pour transformer leurs idées en solutions digitales concrètes. \nEn parallèle, en tant que designer graphique, illustrateur et concepteur de logos, je crée l'identité visuelle des marques afin de traduire visuellement vos pensées et valeurs, renforçant ainsi votre image et votre impact. \nMon engagement au sein de Numeris en tant que Développeur en Chef, mon rôle de CTO chez Imm'online, mes missions freelances et mon activité de formateur au GDG Brazza me permettent de rester à la pointe des technologies tout en partageant mes connaissances. \nToujours à la recherche de nouveaux challenges digitaux pour innover et contribuer à la réussite des projets, je serai ravi d'échanger sur vos besoins en développement et design. \n Marley Pregovi MBOUNGOU.
+ Je crée des expériences numériques exceptionnelles en combinant code, design et créativité. De la conception à la réalisation, je donne vie à vos idées.
 
 Mon parcours unique me permet de fusionner l'ingénierie logicielle et l'expression artistique. J'excelle à la fois dans le développement d'applications web et mobiles robustes, et dans la création d'identités visuelles percutantes (logos, illustrations, design).
 
@@ -56,7 +57,5 @@ Je suis toujours ouvert aux opportunités de collaboration, aux discussions sur 
 ---
 
 ### 📈 Statistiques GitHub (Optionnel)
-
-*(Ajoutez ces lignes pour afficher vos statistiques GitHub. Vous devrez créer un compte sur Vercel et utiliser votre nom d'utilisateur GitHub `pregovimb`.)*
 
 ```markdown
