@@ -36,8 +36,8 @@ En tant que développeur fullstack et artiste, voici les domaines dans lesquels 
 
 Vous pouvez explorer l'ensemble de mes réalisations (code, design et art) sur mon portfolio officiel. Mes dépôts GitHub contiennent le code source de nombreux projets.
 
-* **Mon Portfolio :** [https://pregovimb.github.io/](https://pregovimb.github.io/)
-* **Projets notables :** [Miss Pause Café](https://miss.pausecafe.cg), [CIF](https://cif2025.cg), [Ba Sango](https://basango.net), [B2B Communication](https://b2b-communication.com).
+* **Mon Portfolio :** [https://pregovimb.vercel.app](https://pregovimb.vercel.app/)
+* **Projets notables :** [Miss Pause Café](https://miss.pausecafe.cg), [CIF](https://cif2025.cg), [Ba Sango](https://basango.net), [Patronat Unoc](https://patronat-unoc.cg/), [B2B Communication](https://b2b-communication.com).
 
 ---
 
@@ -48,14 +48,14 @@ Je suis actuellement disponible pour des projets freelance et des collaborations
 | Contact | Détails |
 | :--- | :--- |
 | 📞 Téléphone | (+242) 06 909 35 23 |
-| 🌐 Site Web | [pregovimb.github.io](https://pregovimb.github.io/) |
+| 🌐 Site Web | [https://pregovimb.vercel.app](https://pregovimb.vercel.app/) | [pregovimb.github.io](https://pregovimb.github.io/) |
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LIEN_VERS_VOTRE_PROFIL_LINKEDIN])
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pregovimb/])
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([LIEN_VERS_VOTRE_PROFIL_TWITTER])
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([LIEN_VERS_VOTRE_PROFIL_INSTAGRAM])
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/pregovi_mb/])
 
 ---
 
-### 📈 Statistiques GitHub (Optionnel)
+### 📈 Statistiques GitHub
 
 ```markdown
