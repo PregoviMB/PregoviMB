@@ -1,4 +1,4 @@
-# Salut 👋, Je suis Marley Pregovi MB
+# Salut, Je suis Marley Pregovi MB
 ![Couverture de Marley Pregovi MB](https://pregovimb.github.io/images/slide02.jpg)
 
 ### Développeur Fullstack | Graphiste | Artiste Digital 🎨
@@ -16,7 +16,7 @@ Actuellement, j'occupe les fonctions de :
 
 ---
 
-### 🛠️ Ma Boîte à Outils (Skills & Expertise)
+###  Ma Boîte à Outils (Skills & Expertise)
 
 En tant que développeur fullstack et artiste, voici les domaines dans lesquels j'opère :
 
@@ -32,7 +32,7 @@ En tant que développeur fullstack et artiste, voici les domaines dans lesquels 
 
 ---
 
-### 🚀 Projets & Portfolio
+###  Projets & Portfolio
 
 Vous pouvez explorer l'ensemble de mes réalisations (code, design et art) sur mon portfolio officiel. Mes dépôts GitHub contiennent le code source de nombreux projets.
 
@@ -41,7 +41,7 @@ Vous pouvez explorer l'ensemble de mes réalisations (code, design et art) sur m
 
 ---
 
-### 🤝 Une idée de projet ? Discutons-en ensemble !
+### Une idée de projet ? Discutons-en ensemble !
 
 Je suis actuellement disponible pour des projets freelance et des collaborations. N'hésitez pas à me contacter !
 
@@ -56,6 +56,6 @@ Je suis actuellement disponible pour des projets freelance et des collaborations
 
 ---
 
-### 📈 Statistiques GitHub
+### Statistiques GitHub
 
 ```markdown
